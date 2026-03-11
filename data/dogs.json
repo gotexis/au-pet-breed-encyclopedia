@@ -1,0 +1,992 @@
+[
+  {
+    "name": "Affenpinscher",
+    "slug": "affenpinscher",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/affenpinscher/n02110627_8099.jpg"
+  },
+  {
+    "name": "Wild African",
+    "slug": "wild-african",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/african-wild/n02116738_2503.jpg"
+  },
+  {
+    "name": "Airedale",
+    "slug": "airedale",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/airedale/n02096051_7516.jpg"
+  },
+  {
+    "name": "Akita",
+    "slug": "akita",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/akita/512px-Akita_inu.jpg"
+  },
+  {
+    "name": "Appenzeller",
+    "slug": "appenzeller",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/appenzeller/n02107908_6019.jpg"
+  },
+  {
+    "name": "Kelpie Australian",
+    "slug": "kelpie-australian",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/australian-kelpie/Resized_20200303_233358_108952253645051.jpg"
+  },
+  {
+    "name": "Shepherd Australian",
+    "slug": "shepherd-australian",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/australian-shepherd/forest.jpg"
+  },
+  {
+    "name": "Indian Bakharwal",
+    "slug": "indian-bakharwal",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/bakharwal-indian/Bakharwal.jpg"
+  },
+  {
+    "name": "Basenji",
+    "slug": "basenji",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/basenji/n02110806_4322.jpg"
+  },
+  {
+    "name": "Beagle",
+    "slug": "beagle",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/beagle/n02088364_16165.jpg"
+  },
+  {
+    "name": "Bluetick",
+    "slug": "bluetick",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/bluetick/n02088632_2964.jpg"
+  },
+  {
+    "name": "Borzoi",
+    "slug": "borzoi",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/borzoi/n02090622_6123.jpg"
+  },
+  {
+    "name": "Bouvier",
+    "slug": "bouvier",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/bouvier/n02106382_2535.jpg"
+  },
+  {
+    "name": "Boxer",
+    "slug": "boxer",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/boxer/n02108089_6008.jpg"
+  },
+  {
+    "name": "Brabancon",
+    "slug": "brabancon",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/brabancon/n02112706_1453.jpg"
+  },
+  {
+    "name": "Briard",
+    "slug": "briard",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/briard/n02105251_5337.jpg"
+  },
+  {
+    "name": "Norwegian Buhund",
+    "slug": "norwegian-buhund",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/buhund-norwegian/hakon2.jpg"
+  },
+  {
+    "name": "Boston Bulldog",
+    "slug": "boston-bulldog",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/bulldog-boston/n02096585_8065.jpg"
+  },
+  {
+    "name": "English Bulldog",
+    "slug": "english-bulldog",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/bulldog-english/mami.jpg"
+  },
+  {
+    "name": "French Bulldog",
+    "slug": "french-bulldog",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/bulldog-french/n02108915_3520.jpg"
+  },
+  {
+    "name": "Staffordshire Bullterrier",
+    "slug": "staffordshire-bullterrier",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/bullterrier-staffordshire/n02093256_4036.jpg"
+  },
+  {
+    "name": "Australian Cattledog",
+    "slug": "australian-cattledog",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/cattledog-australian/IMG_5481.jpg"
+  },
+  {
+    "name": "Cavapoo",
+    "slug": "cavapoo",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/cavapoo/doggo2.jpg"
+  },
+  {
+    "name": "Chihuahua",
+    "slug": "chihuahua",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/chihuahua/n02085620_1502.jpg"
+  },
+  {
+    "name": "Indian Chippiparai",
+    "slug": "indian-chippiparai",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/chippiparai-indian/Indian-Chippiparai.jpg"
+  },
+  {
+    "name": "Chow",
+    "slug": "chow",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/chow/n02112137_6282.jpg"
+  },
+  {
+    "name": "Clumber",
+    "slug": "clumber",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/clumber/n02101556_4213.jpg"
+  },
+  {
+    "name": "Cockapoo",
+    "slug": "cockapoo",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/cockapoo/Guri2.jpg"
+  },
+  {
+    "name": "Border Collie",
+    "slug": "border-collie",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/collie-border/lyra.jpg"
+  },
+  {
+    "name": "Coonhound",
+    "slug": "coonhound",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/coonhound/n02089078_4140.jpg"
+  },
+  {
+    "name": "Cardigan Corgi",
+    "slug": "cardigan-corgi",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/corgi-cardigan/n02113186_12316.jpg"
+  },
+  {
+    "name": "Cotondetulear",
+    "slug": "cotondetulear",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/cotondetulear/100_2013.jpg"
+  },
+  {
+    "name": "Dachshund",
+    "slug": "dachshund",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/dachshund/dachshund-2033796_640.jpg"
+  },
+  {
+    "name": "Dalmatian",
+    "slug": "dalmatian",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/dalmatian/cooper2.jpg"
+  },
+  {
+    "name": "Great Dane",
+    "slug": "great-dane",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/dane-great/n02109047_25603.jpg"
+  },
+  {
+    "name": "Swedish Danish",
+    "slug": "swedish-danish",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/danish-swedish-farmdog/ebba_001.jpg"
+  },
+  {
+    "name": "Scottish Deerhound",
+    "slug": "scottish-deerhound",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/deerhound-scottish/n02092002_2981.jpg"
+  },
+  {
+    "name": "Dhole",
+    "slug": "dhole",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/dhole/n02115913_1060.jpg"
+  },
+  {
+    "name": "Dingo",
+    "slug": "dingo",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/dingo/n02115641_5178.jpg"
+  },
+  {
+    "name": "Doberman",
+    "slug": "doberman",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/doberman/n02107142_6859.jpg"
+  },
+  {
+    "name": "Norwegian Elkhound",
+    "slug": "norwegian-elkhound",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/elkhound-norwegian/n02091467_4558.jpg"
+  },
+  {
+    "name": "Entlebucher",
+    "slug": "entlebucher",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/entlebucher/n02108000_558.jpg"
+  },
+  {
+    "name": "Eskimo",
+    "slug": "eskimo",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/eskimo/n02109961_12118.jpg"
+  },
+  {
+    "name": "Lapphund Finnish",
+    "slug": "lapphund-finnish",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/finnish-lapphund/img_3801.jpg"
+  },
+  {
+    "name": "Bichon Frise",
+    "slug": "bichon-frise",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/frise-bichon/stevebaxter_bichon_frise.jpg"
+  },
+  {
+    "name": "Indian Gaddi",
+    "slug": "indian-gaddi",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/gaddi-indian/Gaddi.jpg"
+  },
+  {
+    "name": "Shepherd German",
+    "slug": "shepherd-german",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/german-shepherd/n02106662_25917.jpg"
+  },
+  {
+    "name": "Indian Greyhound",
+    "slug": "indian-greyhound",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/greyhound-indian/rampur-greyhound.jpg"
+  },
+  {
+    "name": "Italian Greyhound",
+    "slug": "italian-greyhound",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/greyhound-italian/n02091032_1684.jpg"
+  },
+  {
+    "name": "Groenendael",
+    "slug": "groenendael",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/groenendael/n02105056_5668.jpg"
+  },
+  {
+    "name": "Havanese",
+    "slug": "havanese",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/havanese/00100trPORTRAIT_00100_BURST20191126134713895_COVER.jpg"
+  },
+  {
+    "name": "Afghan Hound",
+    "slug": "afghan-hound",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/hound-afghan/n02088094_1406.jpg"
+  },
+  {
+    "name": "Basset Hound",
+    "slug": "basset-hound",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/hound-basset/n02088238_11124.jpg"
+  },
+  {
+    "name": "Blood Hound",
+    "slug": "blood-hound",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/hound-blood/n02088466_4907.jpg"
+  },
+  {
+    "name": "English Hound",
+    "slug": "english-hound",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/hound-english/n02089973_32.jpg"
+  },
+  {
+    "name": "Ibizan Hound",
+    "slug": "ibizan-hound",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/hound-ibizan/n02091244_2993.jpg"
+  },
+  {
+    "name": "Plott Hound",
+    "slug": "plott-hound",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/hound-plott/hhh-23456.jpg"
+  },
+  {
+    "name": "Walker Hound",
+    "slug": "walker-hound",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/hound-walker/n02089867_1345.jpg"
+  },
+  {
+    "name": "Husky",
+    "slug": "husky",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/husky/n02110185_12380.jpg"
+  },
+  {
+    "name": "Keeshond",
+    "slug": "keeshond",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/keeshond/n02112350_4122.jpg"
+  },
+  {
+    "name": "Kelpie",
+    "slug": "kelpie",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/kelpie/n02105412_2800.jpg"
+  },
+  {
+    "name": "Kombai",
+    "slug": "kombai",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/kombai/Kombai-indian-Dog.jpg"
+  },
+  {
+    "name": "Komondor",
+    "slug": "komondor",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/komondor/n02105505_4021.jpg"
+  },
+  {
+    "name": "Kuvasz",
+    "slug": "kuvasz",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/kuvasz/n02104029_1646.jpg"
+  },
+  {
+    "name": "Labradoodle",
+    "slug": "labradoodle",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/labradoodle/labradoodle-forrest.jpg"
+  },
+  {
+    "name": "Labrador",
+    "slug": "labrador",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/labrador/n02099712_1987.jpg"
+  },
+  {
+    "name": "Leonberg",
+    "slug": "leonberg",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/leonberg/n02111129_4779.jpg"
+  },
+  {
+    "name": "Lhasa",
+    "slug": "lhasa",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/lhasa/n02098413_2047.jpg"
+  },
+  {
+    "name": "Malamute",
+    "slug": "malamute",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/malamute/n02110063_12326.jpg"
+  },
+  {
+    "name": "Malinois",
+    "slug": "malinois",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/malinois/n02105162_6625.jpg"
+  },
+  {
+    "name": "Maltese",
+    "slug": "maltese",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/maltese/n02085936_37.jpg"
+  },
+  {
+    "name": "Bull Mastiff",
+    "slug": "bull-mastiff",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/mastiff-bull/n02108422_3593.jpg"
+  },
+  {
+    "name": "English Mastiff",
+    "slug": "english-mastiff",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/mastiff-english/3.jpg"
+  },
+  {
+    "name": "Indian Mastiff",
+    "slug": "indian-mastiff",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/mastiff-indian/Indian_Mastiff.jpg"
+  },
+  {
+    "name": "Tibetan Mastiff",
+    "slug": "tibetan-mastiff",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/mastiff-tibetan/n02108551_9913.jpg"
+  },
+  {
+    "name": "Mexicanhairless",
+    "slug": "mexicanhairless",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/mexicanhairless/n02113978_206.jpg"
+  },
+  {
+    "name": "Mix",
+    "slug": "mix",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/mix/xeshaBelka_(6).jpg"
+  },
+  {
+    "name": "Bernese Mountain",
+    "slug": "bernese-mountain",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/mountain-bernese/n02107683_4558.jpg"
+  },
+  {
+    "name": "Swiss Mountain",
+    "slug": "swiss-mountain",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/mountain-swiss/n02107574_627.jpg"
+  },
+  {
+    "name": "Indian Mudhol",
+    "slug": "indian-mudhol",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/mudhol-indian/Indian-Mudhol.jpg"
+  },
+  {
+    "name": "Newfoundland",
+    "slug": "newfoundland",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/newfoundland/n02111277_2524.jpg"
+  },
+  {
+    "name": "Otterhound",
+    "slug": "otterhound",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/otterhound/n02091635_873.jpg"
+  },
+  {
+    "name": "Caucasian Ovcharka",
+    "slug": "caucasian-ovcharka",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/ovcharka-caucasian/IMG_20190801_142145.jpg"
+  },
+  {
+    "name": "Papillon",
+    "slug": "papillon",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/papillon/n02086910_2454.jpg"
+  },
+  {
+    "name": "Indian Pariah",
+    "slug": "indian-pariah",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/pariah-indian/The_Indian_Pariah_Dog.jpg"
+  },
+  {
+    "name": "Pekinese",
+    "slug": "pekinese",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/pekinese/n02086079_499.jpg"
+  },
+  {
+    "name": "Pembroke",
+    "slug": "pembroke",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/pembroke/n02113023_7254.jpg"
+  },
+  {
+    "name": "Miniature Pinscher",
+    "slug": "miniature-pinscher",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/pinscher-miniature/n02107312_7029.jpg"
+  },
+  {
+    "name": "Pitbull",
+    "slug": "pitbull",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/pitbull/dog-3981033_1280.jpg"
+  },
+  {
+    "name": "German Pointer",
+    "slug": "german-pointer",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/pointer-german/n02100236_3025.jpg"
+  },
+  {
+    "name": "Germanlonghair Pointer",
+    "slug": "germanlonghair-pointer",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/pointer-germanlonghair/hans2.jpg"
+  },
+  {
+    "name": "Pomeranian",
+    "slug": "pomeranian",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/pomeranian/n02112018_7103.jpg"
+  },
+  {
+    "name": "Medium Poodle",
+    "slug": "medium-poodle",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/poodle-medium/PXL_20210220_100624962.jpg"
+  },
+  {
+    "name": "Miniature Poodle",
+    "slug": "miniature-poodle",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/poodle-miniature/n02113712_448.jpg"
+  },
+  {
+    "name": "Standard Poodle",
+    "slug": "standard-poodle",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/poodle-standard/n02113799_2043.jpg"
+  },
+  {
+    "name": "Toy Poodle",
+    "slug": "toy-poodle",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/poodle-toy/n02113624_5723.jpg"
+  },
+  {
+    "name": "Pug",
+    "slug": "pug",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/pug/n02110958_13721.jpg"
+  },
+  {
+    "name": "Puggle",
+    "slug": "puggle",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/puggle/IMG_075427.jpg"
+  },
+  {
+    "name": "Pyrenees",
+    "slug": "pyrenees",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/pyrenees/n02111500_4358.jpg"
+  },
+  {
+    "name": "Indian Rajapalayam",
+    "slug": "indian-rajapalayam",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/rajapalayam-indian/Rajapalayam-dog.jpg"
+  },
+  {
+    "name": "Redbone",
+    "slug": "redbone",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/redbone/n02090379_5404.jpg"
+  },
+  {
+    "name": "Chesapeake Retriever",
+    "slug": "chesapeake-retriever",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/retriever-chesapeake/n02099849_3777.jpg"
+  },
+  {
+    "name": "Curly Retriever",
+    "slug": "curly-retriever",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/retriever-curly/n02099429_3188.jpg"
+  },
+  {
+    "name": "Flatcoated Retriever",
+    "slug": "flatcoated-retriever",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/retriever-flatcoated/n02099267_4098.jpg"
+  },
+  {
+    "name": "Golden Retriever",
+    "slug": "golden-retriever",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/retriever-golden/n02099601_2536.jpg"
+  },
+  {
+    "name": "Rhodesian Ridgeback",
+    "slug": "rhodesian-ridgeback",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/ridgeback-rhodesian/n02087394_8630.jpg"
+  },
+  {
+    "name": "Rottweiler",
+    "slug": "rottweiler",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/rottweiler/n02106550_4079.jpg"
+  },
+  {
+    "name": "Collie Rough",
+    "slug": "collie-rough",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/rough-collie/collie-chatter-rough-collie-gus-posing.jpg"
+  },
+  {
+    "name": "Saluki",
+    "slug": "saluki",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/saluki/n02091831_3616.jpg"
+  },
+  {
+    "name": "Samoyed",
+    "slug": "samoyed",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/samoyed/n02111889_3960.jpg"
+  },
+  {
+    "name": "Schipperke",
+    "slug": "schipperke",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/schipperke/n02104365_8548.jpg"
+  },
+  {
+    "name": "Giant Schnauzer",
+    "slug": "giant-schnauzer",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/schnauzer-giant/n02097130_2821.jpg"
+  },
+  {
+    "name": "Miniature Schnauzer",
+    "slug": "miniature-schnauzer",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/schnauzer-miniature/n02097047_752.jpg"
+  },
+  {
+    "name": "Italian Segugio",
+    "slug": "italian-segugio",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/segugio-italian/n02090722_001.jpg"
+  },
+  {
+    "name": "English Setter",
+    "slug": "english-setter",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/setter-english/n02100735_4943.jpg"
+  },
+  {
+    "name": "Gordon Setter",
+    "slug": "gordon-setter",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/setter-gordon/n02101006_3026.jpg"
+  },
+  {
+    "name": "Irish Setter",
+    "slug": "irish-setter",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/setter-irish/n02100877_2588.jpg"
+  },
+  {
+    "name": "Sharpei",
+    "slug": "sharpei",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/sharpei/noel.jpg"
+  },
+  {
+    "name": "English Sheepdog",
+    "slug": "english-sheepdog",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/sheepdog-english/n02105641_6272.jpg"
+  },
+  {
+    "name": "Indian Sheepdog",
+    "slug": "indian-sheepdog",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/sheepdog-indian/Himalayan_Sheepdog.jpg"
+  },
+  {
+    "name": "Shetland Sheepdog",
+    "slug": "shetland-sheepdog",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/sheepdog-shetland/n02105855_10095.jpg"
+  },
+  {
+    "name": "Shiba",
+    "slug": "shiba",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/shiba/shiba-12.jpg"
+  },
+  {
+    "name": "Shihtzu",
+    "slug": "shihtzu",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/shihtzu/n02086240_3186.jpg"
+  },
+  {
+    "name": "Blenheim Spaniel",
+    "slug": "blenheim-spaniel",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/spaniel-blenheim/n02086646_851.jpg"
+  },
+  {
+    "name": "Brittany Spaniel",
+    "slug": "brittany-spaniel",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/spaniel-brittany/n02101388_10527.jpg"
+  },
+  {
+    "name": "Cocker Spaniel",
+    "slug": "cocker-spaniel",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/spaniel-cocker/n02102318_5967.jpg"
+  },
+  {
+    "name": "Irish Spaniel",
+    "slug": "irish-spaniel",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/spaniel-irish/n02102973_377.jpg"
+  },
+  {
+    "name": "Japanese Spaniel",
+    "slug": "japanese-spaniel",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/spaniel-japanese/n02085782_3727.jpg"
+  },
+  {
+    "name": "Sussex Spaniel",
+    "slug": "sussex-spaniel",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/spaniel-sussex/n02102480_7676.jpg"
+  },
+  {
+    "name": "Welsh Spaniel",
+    "slug": "welsh-spaniel",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/spaniel-welsh/n02102177_3374.jpg"
+  },
+  {
+    "name": "Indian Spitz",
+    "slug": "indian-spitz",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/spitz-indian/Indian_Spitz.jpg"
+  },
+  {
+    "name": "Japanese Spitz",
+    "slug": "japanese-spitz",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/spitz-japanese/beet-005.jpg"
+  },
+  {
+    "name": "English Springer",
+    "slug": "english-springer",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/springer-english/n02102040_4295.jpg"
+  },
+  {
+    "name": "Stbernard",
+    "slug": "stbernard",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/stbernard/n02109525_16346.jpg"
+  },
+  {
+    "name": "American Terrier",
+    "slug": "american-terrier",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/terrier-american/n02093428_5297.jpg"
+  },
+  {
+    "name": "Andalusian Terrier",
+    "slug": "andalusian-terrier",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/terrier-andalusian/El-Bodeguero-Andaluz-caracteristicas-de-un-perro-ratonero-perro-cuatro-patas_872f0926-e6bc-4916-913d-5a3156c6fba0_480x480.jpg"
+  },
+  {
+    "name": "Australian Terrier",
+    "slug": "australian-terrier",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/terrier-australian/n02096294_8467.jpg"
+  },
+  {
+    "name": "Bedlington Terrier",
+    "slug": "bedlington-terrier",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/terrier-bedlington/n02093647_518.jpg"
+  },
+  {
+    "name": "Border Terrier",
+    "slug": "border-terrier",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/terrier-border/n02093754_2457.jpg"
+  },
+  {
+    "name": "Boston Terrier",
+    "slug": "boston-terrier",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/terrier-boston/bostonTerrier_000001.jpg"
+  },
+  {
+    "name": "Cairn Terrier",
+    "slug": "cairn-terrier",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/terrier-cairn/n02096177_5206.jpg"
+  },
+  {
+    "name": "Dandie Terrier",
+    "slug": "dandie-terrier",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/terrier-dandie/n02096437_482.jpg"
+  },
+  {
+    "name": "Fox Terrier",
+    "slug": "fox-terrier",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/terrier-fox/n02095314_2932.jpg"
+  },
+  {
+    "name": "Irish Terrier",
+    "slug": "irish-terrier",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/terrier-irish/n02093991_4449.jpg"
+  },
+  {
+    "name": "Kerryblue Terrier",
+    "slug": "kerryblue-terrier",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/terrier-kerryblue/n02093859_1251.jpg"
+  },
+  {
+    "name": "Lakeland Terrier",
+    "slug": "lakeland-terrier",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/terrier-lakeland/n02095570_3146.jpg"
+  },
+  {
+    "name": "Norfolk Terrier",
+    "slug": "norfolk-terrier",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/terrier-norfolk/n02094114_1860.jpg"
+  },
+  {
+    "name": "Norwich Terrier",
+    "slug": "norwich-terrier",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/terrier-norwich/n02094258_2633.jpg"
+  },
+  {
+    "name": "Patterdale Terrier",
+    "slug": "patterdale-terrier",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/terrier-patterdale/dog-1268559_640.jpg"
+  },
+  {
+    "name": "Russell Terrier",
+    "slug": "russell-terrier",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/terrier-russell/IMG_7751.jpg"
+  },
+  {
+    "name": "Scottish Terrier",
+    "slug": "scottish-terrier",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/terrier-scottish/n02097298_6261.jpg"
+  },
+  {
+    "name": "Sealyham Terrier",
+    "slug": "sealyham-terrier",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/terrier-sealyham/n02095889_3150.jpg"
+  },
+  {
+    "name": "Silky Terrier",
+    "slug": "silky-terrier",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/terrier-silky/n02097658_7445.jpg"
+  },
+  {
+    "name": "Tibetan Terrier",
+    "slug": "tibetan-terrier",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/terrier-tibetan/n02097474_6306.jpg"
+  },
+  {
+    "name": "Toy Terrier",
+    "slug": "toy-terrier",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/terrier-toy/n02087046_3735.jpg"
+  },
+  {
+    "name": "Welsh Terrier",
+    "slug": "welsh-terrier",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/terrier-welsh/lucy.jpg"
+  },
+  {
+    "name": "Westhighland Terrier",
+    "slug": "westhighland-terrier",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/terrier-westhighland/n02098286_3480.jpg"
+  },
+  {
+    "name": "Wheaten Terrier",
+    "slug": "wheaten-terrier",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/terrier-wheaten/n02098105_1009.jpg"
+  },
+  {
+    "name": "Yorkshire Terrier",
+    "slug": "yorkshire-terrier",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/terrier-yorkshire/n02094433_259.jpg"
+  },
+  {
+    "name": "Tervuren",
+    "slug": "tervuren",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/tervuren/maverick.jpg"
+  },
+  {
+    "name": "Vizsla",
+    "slug": "vizsla",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/vizsla/n02100583_9902.jpg"
+  },
+  {
+    "name": "Spanish Waterdog",
+    "slug": "spanish-waterdog",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/waterdog-spanish/20190208_063211.jpg"
+  },
+  {
+    "name": "Weimaraner",
+    "slug": "weimaraner",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/weimaraner/n02092339_6212.jpg"
+  },
+  {
+    "name": "Whippet",
+    "slug": "whippet",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/whippet/n02091134_17608.jpg"
+  },
+  {
+    "name": "Irish Wolfhound",
+    "slug": "irish-wolfhound",
+    "type": "dog",
+    "image_url": "https://images.dog.ceo/breeds/wolfhound-irish/n02090721_209.jpg"
+  }
+]

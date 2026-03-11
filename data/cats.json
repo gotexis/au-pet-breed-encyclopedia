@@ -1,0 +1,982 @@
+[
+  {
+    "name": "Abyssinian",
+    "slug": "abyssinian",
+    "type": "cat",
+    "country": "Ethiopia",
+    "origin": "Natural/Standard",
+    "coat": "Short",
+    "pattern": "Ticked",
+    "image_url": ""
+  },
+  {
+    "name": "Aegean",
+    "slug": "aegean",
+    "type": "cat",
+    "country": "Greece",
+    "origin": "Natural/Standard",
+    "coat": "Semi-long",
+    "pattern": "Bi- or tri-colored",
+    "image_url": ""
+  },
+  {
+    "name": "American Curl",
+    "slug": "american-curl",
+    "type": "cat",
+    "country": "United States",
+    "origin": "Mutation",
+    "coat": "Short/Long",
+    "pattern": "All",
+    "image_url": ""
+  },
+  {
+    "name": "American Bobtail",
+    "slug": "american-bobtail",
+    "type": "cat",
+    "country": "United States",
+    "origin": "Mutation",
+    "coat": "Short/Long",
+    "pattern": "All",
+    "image_url": ""
+  },
+  {
+    "name": "American Shorthair",
+    "slug": "american-shorthair",
+    "type": "cat",
+    "country": "United States",
+    "origin": "Natural",
+    "coat": "Short",
+    "pattern": "All but colorpoint",
+    "image_url": ""
+  },
+  {
+    "name": "American Wirehair",
+    "slug": "american-wirehair",
+    "type": "cat",
+    "country": "United States",
+    "origin": "Mutation",
+    "coat": "Rex",
+    "pattern": "All but colorpoint",
+    "image_url": ""
+  },
+  {
+    "name": "Arabian Mau",
+    "slug": "arabian-mau",
+    "type": "cat",
+    "country": "Arabian Peninsula",
+    "origin": "Natural",
+    "coat": "Short",
+    "pattern": "",
+    "image_url": ""
+  },
+  {
+    "name": "Australian Mist",
+    "slug": "australian-mist",
+    "type": "cat",
+    "country": "Australia",
+    "origin": "Crossbreed",
+    "coat": "Short",
+    "pattern": "Spotted and Classic tabby",
+    "image_url": ""
+  },
+  {
+    "name": "Asian",
+    "slug": "asian",
+    "type": "cat",
+    "country": "developed in the United Kingdom (founding stock from Asia)",
+    "origin": "",
+    "coat": "Short",
+    "pattern": "Evenly solid",
+    "image_url": ""
+  },
+  {
+    "name": "Asian Semi-longhair",
+    "slug": "asian-semi-longhair",
+    "type": "cat",
+    "country": "United Kingdom",
+    "origin": "Crossbreed",
+    "coat": "Semi-long",
+    "pattern": "Solid",
+    "image_url": ""
+  },
+  {
+    "name": "Balinese",
+    "slug": "balinese",
+    "type": "cat",
+    "country": "developed in the United States (founding stock from Thailand)",
+    "origin": "Crossbreed",
+    "coat": "Long",
+    "pattern": "Colorpoint",
+    "image_url": ""
+  },
+  {
+    "name": "Bambino",
+    "slug": "bambino",
+    "type": "cat",
+    "country": "United States",
+    "origin": "Crossbreed",
+    "coat": "Hairless/Furry down",
+    "pattern": "",
+    "image_url": ""
+  },
+  {
+    "name": "Bengal",
+    "slug": "bengal",
+    "type": "cat",
+    "country": "developed in the United States (founding stock from Asia)",
+    "origin": "Hybrid",
+    "coat": "Short",
+    "pattern": "Spotted/Marbled",
+    "image_url": ""
+  },
+  {
+    "name": "Birman",
+    "slug": "birman",
+    "type": "cat",
+    "country": "developed in France (founding stock from Burma)",
+    "origin": "Natural",
+    "coat": "Semi Long",
+    "pattern": "Colorpoint",
+    "image_url": ""
+  },
+  {
+    "name": "Bombay",
+    "slug": "bombay",
+    "type": "cat",
+    "country": "developed in the United States (founding stock from Asia)",
+    "origin": "Crossbred",
+    "coat": "Short",
+    "pattern": "Solid",
+    "image_url": ""
+  },
+  {
+    "name": "Brazilian Shorthair",
+    "slug": "brazilian-shorthair",
+    "type": "cat",
+    "country": "Brazil",
+    "origin": "Natural",
+    "coat": "Short",
+    "pattern": "All",
+    "image_url": ""
+  },
+  {
+    "name": "British Semi-longhair",
+    "slug": "british-semi-longhair",
+    "type": "cat",
+    "country": "United Kingdom",
+    "origin": "",
+    "coat": "Medium",
+    "pattern": "All",
+    "image_url": ""
+  },
+  {
+    "name": "British Shorthair",
+    "slug": "british-shorthair",
+    "type": "cat",
+    "country": "United Kingdom",
+    "origin": "Natural",
+    "coat": "Short",
+    "pattern": "All",
+    "image_url": ""
+  },
+  {
+    "name": "British Longhair",
+    "slug": "british-longhair",
+    "type": "cat",
+    "country": "United Kingdom",
+    "origin": "",
+    "coat": "Long",
+    "pattern": "",
+    "image_url": ""
+  },
+  {
+    "name": "Burmese",
+    "slug": "burmese",
+    "type": "cat",
+    "country": "Burma and Thailand",
+    "origin": "Natural",
+    "coat": "Short",
+    "pattern": "Solid",
+    "image_url": ""
+  },
+  {
+    "name": "Burmilla",
+    "slug": "burmilla",
+    "type": "cat",
+    "country": "United Kingdom",
+    "origin": "Crossbreed",
+    "coat": "Short/Long",
+    "pattern": "",
+    "image_url": ""
+  },
+  {
+    "name": "California Spangled",
+    "slug": "california-spangled",
+    "type": "cat",
+    "country": "United States",
+    "origin": "Crossbreed",
+    "coat": "Short",
+    "pattern": "Spotted",
+    "image_url": ""
+  },
+  {
+    "name": "Chantilly-Tiffany",
+    "slug": "chantilly-tiffany",
+    "type": "cat",
+    "country": "United States",
+    "origin": "",
+    "coat": "",
+    "pattern": "",
+    "image_url": ""
+  },
+  {
+    "name": "Chartreux",
+    "slug": "chartreux",
+    "type": "cat",
+    "country": "France",
+    "origin": "Natural",
+    "coat": "Short",
+    "pattern": "Solid",
+    "image_url": ""
+  },
+  {
+    "name": "Chausie",
+    "slug": "chausie",
+    "type": "cat",
+    "country": "France",
+    "origin": "Hybrid",
+    "coat": "Short",
+    "pattern": "Ticked",
+    "image_url": ""
+  },
+  {
+    "name": "Cheetoh",
+    "slug": "cheetoh",
+    "type": "cat",
+    "country": "United States",
+    "origin": "Hybrid Crossbreed",
+    "coat": "Short",
+    "pattern": "Spotted",
+    "image_url": ""
+  },
+  {
+    "name": "Colorpoint Shorthair",
+    "slug": "colorpoint-shorthair",
+    "type": "cat",
+    "country": "",
+    "origin": "",
+    "coat": "Short",
+    "pattern": "",
+    "image_url": ""
+  },
+  {
+    "name": "Cornish Rex",
+    "slug": "cornish-rex",
+    "type": "cat",
+    "country": "United Kingdom (England)",
+    "origin": "Mutation",
+    "coat": "Rex",
+    "pattern": "All",
+    "image_url": ""
+  },
+  {
+    "name": "Cymric or Manx Longhair",
+    "slug": "cymric-or-manx-longhair",
+    "type": "cat",
+    "country": "United Kingdom (Isle of Man)",
+    "origin": "Natural/Mutation",
+    "coat": "Long",
+    "pattern": "",
+    "image_url": ""
+  },
+  {
+    "name": "Cyprus",
+    "slug": "cyprus",
+    "type": "cat",
+    "country": "Cyprus",
+    "origin": "Natural",
+    "coat": "All",
+    "pattern": "All",
+    "image_url": ""
+  },
+  {
+    "name": "Devon Rex",
+    "slug": "devon-rex",
+    "type": "cat",
+    "country": "United Kingdom (England)",
+    "origin": "Mutation",
+    "coat": "Rex",
+    "pattern": "All",
+    "image_url": ""
+  },
+  {
+    "name": "Donskoy, or Don Sphynx",
+    "slug": "donskoy-or-don-sphynx",
+    "type": "cat",
+    "country": "Russia",
+    "origin": "",
+    "coat": "Hairless",
+    "pattern": "",
+    "image_url": ""
+  },
+  {
+    "name": "Dragon Li",
+    "slug": "dragon-li",
+    "type": "cat",
+    "country": "China",
+    "origin": "Natural",
+    "coat": "Short",
+    "pattern": "Striped tabby",
+    "image_url": ""
+  },
+  {
+    "name": "Dwarf cat, or Dwelf",
+    "slug": "dwarf-cat-or-dwelf",
+    "type": "cat",
+    "country": "",
+    "origin": "Crossbreed",
+    "coat": "",
+    "pattern": "Hairless",
+    "image_url": ""
+  },
+  {
+    "name": "Egyptian Mau",
+    "slug": "egyptian-mau",
+    "type": "cat",
+    "country": "Egypt",
+    "origin": "Natural",
+    "coat": "Short",
+    "pattern": "Spotted",
+    "image_url": ""
+  },
+  {
+    "name": "European Shorthair",
+    "slug": "european-shorthair",
+    "type": "cat",
+    "country": "Finland and Sweden",
+    "origin": "Natural",
+    "coat": "Short",
+    "pattern": "",
+    "image_url": ""
+  },
+  {
+    "name": "Exotic Shorthair",
+    "slug": "exotic-shorthair",
+    "type": "cat",
+    "country": "United States",
+    "origin": "Crossbreed",
+    "coat": "Short",
+    "pattern": "All",
+    "image_url": ""
+  },
+  {
+    "name": "Foldex[4]",
+    "slug": "foldex-4",
+    "type": "cat",
+    "country": "Canada",
+    "origin": "Crossbreed",
+    "coat": "Short",
+    "pattern": "All",
+    "image_url": ""
+  },
+  {
+    "name": "German Rex",
+    "slug": "german-rex",
+    "type": "cat",
+    "country": "East Germany",
+    "origin": "Mutation",
+    "coat": "Rex",
+    "pattern": "",
+    "image_url": ""
+  },
+  {
+    "name": "Havana Brown",
+    "slug": "havana-brown",
+    "type": "cat",
+    "country": "United Kingdom",
+    "origin": "",
+    "coat": "Short",
+    "pattern": "Solid",
+    "image_url": ""
+  },
+  {
+    "name": "Highlander",
+    "slug": "highlander",
+    "type": "cat",
+    "country": "United States",
+    "origin": "Crossbreed",
+    "coat": "Short/Long",
+    "pattern": "All",
+    "image_url": ""
+  },
+  {
+    "name": "Himalayan, or Colorpoint Persian",
+    "slug": "himalayan-or-colorpoint-persian",
+    "type": "cat",
+    "country": "United States/United Kingdom",
+    "origin": "Crossbreed",
+    "coat": "Long",
+    "pattern": "Colorpoint",
+    "image_url": ""
+  },
+  {
+    "name": "Japanese Bobtail",
+    "slug": "japanese-bobtail",
+    "type": "cat",
+    "country": "Japan",
+    "origin": "Natural",
+    "coat": "Short/Long",
+    "pattern": "All but colorpoint and ticked",
+    "image_url": ""
+  },
+  {
+    "name": "Javanese",
+    "slug": "javanese",
+    "type": "cat",
+    "country": "United States",
+    "origin": "Crossbreed",
+    "coat": "Long/Short",
+    "pattern": "Colorpoint",
+    "image_url": ""
+  },
+  {
+    "name": "Karelian Bobtail",
+    "slug": "karelian-bobtail",
+    "type": "cat",
+    "country": "Western Russia",
+    "origin": "Natural",
+    "coat": "",
+    "pattern": "",
+    "image_url": ""
+  },
+  {
+    "name": "Khao Manee",
+    "slug": "khao-manee",
+    "type": "cat",
+    "country": "Thailand",
+    "origin": "Natural",
+    "coat": "Short",
+    "pattern": "Solid",
+    "image_url": ""
+  },
+  {
+    "name": "Korat",
+    "slug": "korat",
+    "type": "cat",
+    "country": "Thailand",
+    "origin": "Natural",
+    "coat": "Short",
+    "pattern": "Solid",
+    "image_url": ""
+  },
+  {
+    "name": "Korean Bobtail",
+    "slug": "korean-bobtail",
+    "type": "cat",
+    "country": "Korea",
+    "origin": "Natural",
+    "coat": "Short/Long",
+    "pattern": "Colorprint",
+    "image_url": ""
+  },
+  {
+    "name": "Korn Ja",
+    "slug": "korn-ja",
+    "type": "cat",
+    "country": "Thailand",
+    "origin": "Natural",
+    "coat": "Short/Hairless",
+    "pattern": "Solid",
+    "image_url": ""
+  },
+  {
+    "name": "Kurilian Bobtail, or Kuril Islands Bobtail",
+    "slug": "kurilian-bobtail-or-kuril-islands-bobtail",
+    "type": "cat",
+    "country": "Eastern Russia,Japan",
+    "origin": "Natural",
+    "coat": "Short/Long",
+    "pattern": "",
+    "image_url": ""
+  },
+  {
+    "name": "LaPerm",
+    "slug": "laperm",
+    "type": "cat",
+    "country": "United States",
+    "origin": "Mutation",
+    "coat": "Rex",
+    "pattern": "All",
+    "image_url": ""
+  },
+  {
+    "name": "Lykoi",
+    "slug": "lykoi",
+    "type": "cat",
+    "country": "United States",
+    "origin": "Natural/Mutation",
+    "coat": "Partly Hairless",
+    "pattern": "Ticked",
+    "image_url": ""
+  },
+  {
+    "name": "Maine Coon",
+    "slug": "maine-coon",
+    "type": "cat",
+    "country": "United States",
+    "origin": "Natural",
+    "coat": "Long",
+    "pattern": "All but colorpoint and ticked",
+    "image_url": ""
+  },
+  {
+    "name": "Manx",
+    "slug": "manx",
+    "type": "cat",
+    "country": "United Kingdom (Isle of Man)",
+    "origin": "Mutation",
+    "coat": "Short/Long",
+    "pattern": "All but colorpoint",
+    "image_url": ""
+  },
+  {
+    "name": "Mekong Bobtail",
+    "slug": "mekong-bobtail",
+    "type": "cat",
+    "country": "Russia",
+    "origin": "Natural/Mutation",
+    "coat": "Short",
+    "pattern": "Colorpoint",
+    "image_url": ""
+  },
+  {
+    "name": "Minskin",
+    "slug": "minskin",
+    "type": "cat",
+    "country": "United States",
+    "origin": "Crossbreed",
+    "coat": "Short/Hairless",
+    "pattern": "All",
+    "image_url": ""
+  },
+  {
+    "name": "Munchkin",
+    "slug": "munchkin",
+    "type": "cat",
+    "country": "United States",
+    "origin": "Mutation",
+    "coat": "",
+    "pattern": "",
+    "image_url": ""
+  },
+  {
+    "name": "Nebelung",
+    "slug": "nebelung",
+    "type": "cat",
+    "country": "United States",
+    "origin": "",
+    "coat": "Semi-long",
+    "pattern": "Solid",
+    "image_url": ""
+  },
+  {
+    "name": "Napoleon",
+    "slug": "napoleon",
+    "type": "cat",
+    "country": "",
+    "origin": "",
+    "coat": "Long/short",
+    "pattern": "Varied",
+    "image_url": ""
+  },
+  {
+    "name": "Norwegian Forest cat",
+    "slug": "norwegian-forest-cat",
+    "type": "cat",
+    "country": "Norway",
+    "origin": "Natural",
+    "coat": "Long",
+    "pattern": "All but colorpoint",
+    "image_url": ""
+  },
+  {
+    "name": "Ocicat",
+    "slug": "ocicat",
+    "type": "cat",
+    "country": "United States",
+    "origin": "Crossbreed",
+    "coat": "Short",
+    "pattern": "Spotted",
+    "image_url": ""
+  },
+  {
+    "name": "Ojos Azules",
+    "slug": "ojos-azules",
+    "type": "cat",
+    "country": "United States",
+    "origin": "",
+    "coat": "",
+    "pattern": "",
+    "image_url": ""
+  },
+  {
+    "name": "Oregon Rex",
+    "slug": "oregon-rex",
+    "type": "cat",
+    "country": "United States",
+    "origin": "Mutation",
+    "coat": "Rex",
+    "pattern": "",
+    "image_url": ""
+  },
+  {
+    "name": "Oriental Bicolor",
+    "slug": "oriental-bicolor",
+    "type": "cat",
+    "country": "",
+    "origin": "",
+    "coat": "",
+    "pattern": "Bicolor",
+    "image_url": ""
+  },
+  {
+    "name": "Oriental Shorthair",
+    "slug": "oriental-shorthair",
+    "type": "cat",
+    "country": "",
+    "origin": "",
+    "coat": "Short",
+    "pattern": "All but colorpoint",
+    "image_url": ""
+  },
+  {
+    "name": "Oriental Longhair",
+    "slug": "oriental-longhair",
+    "type": "cat",
+    "country": "",
+    "origin": "",
+    "coat": "Semi-long",
+    "pattern": "",
+    "image_url": ""
+  },
+  {
+    "name": "PerFold\u00e6(Experimental Breed - WCF)",
+    "slug": "perfold-experimental-breed-wcf",
+    "type": "cat",
+    "country": "Europe",
+    "origin": "Crossbreed",
+    "coat": "Long",
+    "pattern": "All",
+    "image_url": ""
+  },
+  {
+    "name": "Persian (Modern Persian Cat)",
+    "slug": "persian-modern-persian-cat",
+    "type": "cat",
+    "country": "Iran (Persia)",
+    "origin": "Crossbreed",
+    "coat": "Long",
+    "pattern": "All",
+    "image_url": ""
+  },
+  {
+    "name": "Persian (Traditional Persian Cat)",
+    "slug": "persian-traditional-persian-cat",
+    "type": "cat",
+    "country": "Greater Iran",
+    "origin": "Natural",
+    "coat": "Long",
+    "pattern": "All",
+    "image_url": ""
+  },
+  {
+    "name": "Peterbald",
+    "slug": "peterbald",
+    "type": "cat",
+    "country": "Russia",
+    "origin": "Crossbreed",
+    "coat": "Hairless",
+    "pattern": "All",
+    "image_url": ""
+  },
+  {
+    "name": "Pixie-bob",
+    "slug": "pixie-bob",
+    "type": "cat",
+    "country": "United States",
+    "origin": "Natural",
+    "coat": "Short",
+    "pattern": "Spotted",
+    "image_url": ""
+  },
+  {
+    "name": "Raas",
+    "slug": "raas",
+    "type": "cat",
+    "country": "Indonesia",
+    "origin": "Natural",
+    "coat": "Short",
+    "pattern": "",
+    "image_url": ""
+  },
+  {
+    "name": "Ragamuffin",
+    "slug": "ragamuffin",
+    "type": "cat",
+    "country": "United States",
+    "origin": "Crossbreed",
+    "coat": "Long",
+    "pattern": "All",
+    "image_url": ""
+  },
+  {
+    "name": "Ragdoll",
+    "slug": "ragdoll",
+    "type": "cat",
+    "country": "United States",
+    "origin": "Crossbreed",
+    "coat": "Long",
+    "pattern": "Colorpoint/Mitted/Bicolor",
+    "image_url": ""
+  },
+  {
+    "name": "Russian Blue",
+    "slug": "russian-blue",
+    "type": "cat",
+    "country": "Russia",
+    "origin": "Natural",
+    "coat": "Short",
+    "pattern": "Solid",
+    "image_url": ""
+  },
+  {
+    "name": "Russian White, Black and Tabby",
+    "slug": "russian-white-black-and-tabby",
+    "type": "cat",
+    "country": "Australia",
+    "origin": "Crossbreed",
+    "coat": "Short",
+    "pattern": "",
+    "image_url": ""
+  },
+  {
+    "name": "Sam Sawet",
+    "slug": "sam-sawet",
+    "type": "cat",
+    "country": "Thailand",
+    "origin": "Natural",
+    "coat": "Short",
+    "pattern": "Solid",
+    "image_url": ""
+  },
+  {
+    "name": "Savannah",
+    "slug": "savannah",
+    "type": "cat",
+    "country": "United States",
+    "origin": "Hybrid",
+    "coat": "Short",
+    "pattern": "Spotted",
+    "image_url": ""
+  },
+  {
+    "name": "Scottish Fold",
+    "slug": "scottish-fold",
+    "type": "cat",
+    "country": "United Kingdom (Scotland)",
+    "origin": "Natural/Mutation",
+    "coat": "Short/Long",
+    "pattern": "All",
+    "image_url": ""
+  },
+  {
+    "name": "Selkirk Rex",
+    "slug": "selkirk-rex",
+    "type": "cat",
+    "country": "United States",
+    "origin": "Mutation/Cross",
+    "coat": "Rex (Short/Long)",
+    "pattern": "All",
+    "image_url": ""
+  },
+  {
+    "name": "Serengeti",
+    "slug": "serengeti",
+    "type": "cat",
+    "country": "United States",
+    "origin": "Hybrid Crossbreed",
+    "coat": "Short",
+    "pattern": "Spotted",
+    "image_url": ""
+  },
+  {
+    "name": "Serrade petit",
+    "slug": "serrade-petit",
+    "type": "cat",
+    "country": "France",
+    "origin": "Natural",
+    "coat": "Short",
+    "pattern": "",
+    "image_url": ""
+  },
+  {
+    "name": "Siamese",
+    "slug": "siamese",
+    "type": "cat",
+    "country": "Thailand",
+    "origin": "Natural",
+    "coat": "Short",
+    "pattern": "Colorpoint",
+    "image_url": ""
+  },
+  {
+    "name": "Siberian",
+    "slug": "siberian",
+    "type": "cat",
+    "country": "Russia",
+    "origin": "Natural",
+    "coat": "Semi-long",
+    "pattern": "All",
+    "image_url": ""
+  },
+  {
+    "name": "Singapura",
+    "slug": "singapura",
+    "type": "cat",
+    "country": "Singapore",
+    "origin": "Natural",
+    "coat": "Short",
+    "pattern": "Ticked",
+    "image_url": ""
+  },
+  {
+    "name": "Snowshoe",
+    "slug": "snowshoe",
+    "type": "cat",
+    "country": "United States",
+    "origin": "Crossbreed",
+    "coat": "Short",
+    "pattern": "Colorpoint",
+    "image_url": ""
+  },
+  {
+    "name": "Sokoke",
+    "slug": "sokoke",
+    "type": "cat",
+    "country": "Kenya",
+    "origin": "Natural",
+    "coat": "Short",
+    "pattern": "Classic tabby with ticking",
+    "image_url": ""
+  },
+  {
+    "name": "Somali",
+    "slug": "somali",
+    "type": "cat",
+    "country": "Somalia",
+    "origin": "Mutation",
+    "coat": "Long",
+    "pattern": "Ticked",
+    "image_url": ""
+  },
+  {
+    "name": "Sphynx",
+    "slug": "sphynx",
+    "type": "cat",
+    "country": "Canada",
+    "origin": "Mutation",
+    "coat": "Hairless",
+    "pattern": "All",
+    "image_url": ""
+  },
+  {
+    "name": "Suphalak",
+    "slug": "suphalak",
+    "type": "cat",
+    "country": "Thailand",
+    "origin": "Natural",
+    "coat": "Short",
+    "pattern": "Solid",
+    "image_url": ""
+  },
+  {
+    "name": "Thai",
+    "slug": "thai",
+    "type": "cat",
+    "country": "Thailand",
+    "origin": "Natural",
+    "coat": "Short",
+    "pattern": "Colorpoint",
+    "image_url": ""
+  },
+  {
+    "name": "Thai Lilac",
+    "slug": "thai-lilac",
+    "type": "cat",
+    "country": "Thailand",
+    "origin": "Natural",
+    "coat": "Short",
+    "pattern": "Solid",
+    "image_url": ""
+  },
+  {
+    "name": "Tonkinese",
+    "slug": "tonkinese",
+    "type": "cat",
+    "country": "Canada",
+    "origin": "Crossbreed",
+    "coat": "Short",
+    "pattern": "Colorpoint/Mink/Solid",
+    "image_url": ""
+  },
+  {
+    "name": "Toyger",
+    "slug": "toyger",
+    "type": "cat",
+    "country": "United States",
+    "origin": "Crossbreed",
+    "coat": "Short",
+    "pattern": "Mackerel",
+    "image_url": ""
+  },
+  {
+    "name": "Turkish Angora",
+    "slug": "turkish-angora",
+    "type": "cat",
+    "country": "Turkey",
+    "origin": "Natural",
+    "coat": "Semi-long",
+    "pattern": "All but colorpoint",
+    "image_url": ""
+  },
+  {
+    "name": "Turkish Van",
+    "slug": "turkish-van",
+    "type": "cat",
+    "country": "developed in the United Kingdom (founding stock from Turkey)",
+    "origin": "Natural",
+    "coat": "Semi-long",
+    "pattern": "Van",
+    "image_url": ""
+  },
+  {
+    "name": "Ukrainian Levkoy",
+    "slug": "ukrainian-levkoy",
+    "type": "cat",
+    "country": "Ukraine",
+    "origin": "",
+    "coat": "Hairless",
+    "pattern": "",
+    "image_url": ""
+  },
+  {
+    "name": "York Chocolate",
+    "slug": "york-chocolate",
+    "type": "cat",
+    "country": "United States (New York)",
+    "origin": "Natural",
+    "coat": "Long",
+    "pattern": "Solid",
+    "image_url": ""
+  }
+]
